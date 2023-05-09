@@ -4,7 +4,7 @@ This is my home page! My name is Janeth Osorio and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/o-jana/o-jana.github.io.git
+My GitHub page is https://github.com/o-jana/o-jana.git
 
 ### CPSC 120
 
@@ -20,4 +20,4 @@ My GitHub page is https://github.com/o-jana/o-jana.github.io.git
 
 * Lab #2
 
-    Lab 2, part 2, was my favorite lab because I was still getting used to accessing and pushing the code. I also liked how we started using strings in coding. I learned the difference between integers and strings. 
+    Lab 2, part 2, was my favorite lab because I was still getting used to accessing and pushing the code. I also liked how we started using strings in coding. I learned the difference between integers and strings.
